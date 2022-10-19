@@ -1,0 +1,8 @@
+gti clone https://github.com/EgorikA4/dec-10-
+cd dec-10-
+git checkout -b название_ветки
+Создать файл
+git add название_файла
+git commit -m "Сообщение"
+git push --set-upstream origin название_ветки
+
